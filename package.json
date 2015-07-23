@@ -1,20 +1,13 @@
 {
-  "name": "adapt-contrib-question",
+  "name": "adapt-fillin",
   "version": "0.0.1",
-  "description": "A skeleton for building question components",
+  "description": "Fill in the gaps with correct phrases",
   "main": "",
   "scripts": {
     "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/adaptlearning/adapt-contrib-question.git"
-  },
-  "author": "AdaptLearning",
-  "license": "GPL v3",
-  "bugs": {
-    "url": "https://github.com/adaptlearning/adapt-contrib-question/issues"
-  },
+  "author": "MyNetwork",
+  "license": "",
   "devDependencies": {
     "karma": "0.10",
     "karma-mocha": "0.1.0",

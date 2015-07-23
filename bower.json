@@ -1,14 +1,14 @@
 {
-  "name": "adapt-contrib-question",
+  "name": "adapt-fillin",
   "version": "0.0.2",
-  "homepage": "https://github.com/adaptlearning/adapt-contrib-question",
+  "homepage": "",
   "authors": [
-    "Daryl Hedley <darylhedley@gmail.com>"
+    "MyNetwork"
   ],
-  "displayName" : "A skeleton for building question components",
-  "component" : "question",
-  "description": "A skeleton for building question components",
-  "main": "/js/adapt-contrib-question.js",
+  "displayName" : "FillIn",
+  "component" : "fillin",
+  "description": "Fill in the gaps with correct phrases",
+  "main": "/js/adapt-fillin.js",
   "keywords": [
     "adapt-plugin",
     "adapt-component"

@@ -1,0 +1,50 @@
+// Please prefix all your classes with your component name
+// e.g. 'mcq-item'
+
+.fillin-inner {
+    input.correct {
+        color: #009064;
+        border-width: 3px;
+        border-color: #009064;
+    }
+    input.incorrect {
+        color: #900016;
+        border-width: 3px;
+        border-color: #900016;
+    }
+    .icon {
+        display: inline !important;
+
+        &.icon-tick {
+            color: #009064;
+        }
+        &.icon-cross {
+            color: #900016;
+        }
+    }
+}
+
+.fillin-widget {
+    input[type="text"] {
+        background-color: transparent;
+        border: none;
+        border-bottom: solid 1px #444;
+        padding: 4px;
+        text-align: center;
+        font-family: inherit;
+        font-size: inherit;
+    }
+
+    .buttons {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
+
+.fillin-text {
+    margin: 60px;
+    line-height: 2em;
+    font-size: 1.3em;
+    text-align: center;
+    cursor: pointer;
+}

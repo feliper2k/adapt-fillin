@@ -1,39 +1,26 @@
 {
-    "_id":"c-125",
-    "_parentId":"b-60",
+    "_id":"c-12445",
+    "_parentId":"b-65",
     "_type":"component",
-    "_component":"question",
+    "_component":"fillin",
     "_classes":"",
     "_layout":"full",
-    "_attempts":1,
+    "_attempts":2,
     "_questionWeight":1,
-    "title": "Question",
+    "title": "Luki",
     "displayTitle": "",
     "body": "",
-    "instruction": "",
-    "_items": [
-        {
-            "text": "This is option 1."
-        }
-    ],
+    "instruction": "Wypełnij luki w tekście właściwymi wyrazami/zwrotami.",
+    "_text": "W Szczebrzeszynie *chrząszcz* brzmi w trzcinie i Szczebrzeszyn z tego słynie. Zażółć *gęślą* jaźń. Wlazł kotek na *płotek*.",
     "_feedback":{
-        "correct":"Congratulations, this is the correct feedback.",
+        "correct":"Gratulacje, poprawnie wypełniłeś wszystkie luki!",
         "_incorrect": {
             "notFinal": "",
-            "final": "Unfortunately this is the incorrect feedback."
+            "final": "Niestety, nie udzieliłeś żadnych poprawnych odpowiedzi."
         },
         "_partlyCorrect": {
             "notFinal": "",
-            "final": "This is the partly correct feedback."
+            "final": "Niestety, udzieliłeś tylko części poprawnych odpowiedzi."
         }
-    },
-    "_buttons":{
-        "submit": "",
-        "reset": "",
-        "showCorrectAnswer": "",
-        "hideCorrectAnswer": "",
-        "showFeedback": "",
-        "remainingAttempts": "",
-        "remainingAttempt": ""
     }
 }
